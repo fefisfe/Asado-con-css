@@ -1,0 +1,53 @@
+body{
+  background-color: #95A5A6;
+}
+
+.titulo{
+  color: darkgrey;
+  font-family: fantasy;
+  font-size: 50px;
+  text-decoration:underline;
+}
+
+.asado-1{
+  height: 500px;
+  width: 500px;
+}
+
+#sobre-titulo{
+  color: lightblue;
+  font-family: monospace;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+#descripcion{
+  font-family: Pacifico,cursive;
+  text-align: center;
+}
+
+#utencillos{
+  color: blue;
+  font-family: fantasy;
+  font-size: 18px;
+}
+#pasos{
+  color: grey;
+  font-family: serif;
+  font-size: 18px;
+  text-align: left;
+}
+
+.asado-2{
+  height: 500px;
+  width: 500px;
+}
+
+.footer{
+    background: #bfbfbf;
+    color: #fdfdfd;
+    font-family: Pacifico, cursive;
+    text-align: right;
+    padding: 1.5625rem 5rem;
+    text-transform: lowercase;
+}

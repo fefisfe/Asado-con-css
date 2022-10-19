@@ -1,0 +1,32 @@
+body{
+  background: url("../imagenes/asado-a-la-estaca.jpg");
+}
+
+#titulo{
+  color: #909090;
+  font-family: fantasy;
+  font-size: 55px;
+  text-align: justify;
+  text-decoration: underline;
+  text-transform: capitalize;
+  text-shadow: 0 4px 4px rgb(0, 0, 0, 0.75);
+  position: static;
+}
+
+.redes{
+  color: white;
+  font-family: cursive;
+  font-size: 20px;
+  text-align: center;
+  text-shadow: 0 3px 3px rgb(0, 0, 0, 0.50);
+  position: sticky;
+}
+
+.footer{
+    background: #bfbfbf;
+    color: #fdfdfd;
+    font-family: Pacifico,cursive;
+    text-align: right;
+    padding: 1.5625rem 5rem;
+    text-transform: lowercase;
+}
